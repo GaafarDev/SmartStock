@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90728640098",
+    "project_id": "impacthackv3",
+    "storage_bucket": "impacthackv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90728640098:android:ca866d4c29be509f852b3b",
+        "android_client_info": {
+          "package_name": "com.example.impact_hack_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90728640098-6gbb41apdqkmgj7q13p4otm32e1l518c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN5p3CReoUSV2NYVbOZIM1MnIEHqE8CQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90728640098-6gbb41apdqkmgj7q13p4otm32e1l518c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
