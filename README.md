@@ -9,7 +9,7 @@ This system have been develoed using the aglie methodogly and using rubby on rai
 
 
 ### HomeScreen
-![HomeScreen](https://github.com/GaafarDev/SmartStock/assets/115364146/50cb9bc1-b98a-49b5-9448-a40b24648847)
+![HomeScreen](https://github.com/GaafarDev/SmartStock/assets/115364146/4bcc6271-ad59-457c-bc78-509b68ae1ee5)
 
 
 ### Restock
