@@ -5,16 +5,15 @@ This poroject was part of the ImpactHack hacathon 2023. This aim of this project
 ### Methodology & Technologies used
 This system have been develoed using the aglie methodogly and using rubby on rails as the development framework
 
-### System Features 
-
-https://github.com/GaafarDev/SmartStock/assets/115364146/8c077fb2-a312-4f78-abf0-e1c581bc9b87
+## System Features 
 
 
-#### Login
+### HomeScreen
+![Uploading HomeScreen.gif…]()
 
-#### Admin subsystem 
-#### Teachers subsystem 
-#### Students/Parents subsystem
+### Restock
+
+### Sell Product 
 
 ## Ruby version
 
