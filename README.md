@@ -9,11 +9,15 @@ This system have been develoed using the aglie methodogly and using rubby on rai
 
 
 ### HomeScreen
-![Uploading HomeScreen.gif…]()
+![HomeScreen](https://github.com/GaafarDev/SmartStock/assets/115364146/50cb9bc1-b98a-49b5-9448-a40b24648847)
+
 
 ### Restock
+![RestockFeature](https://github.com/GaafarDev/SmartStock/assets/115364146/57da309e-b3b0-4c8a-8d63-d0c677ed63d5)
+
 
 ### Sell Product 
+![SellProductFeature](https://github.com/GaafarDev/SmartStock/assets/115364146/1af8acd4-26a7-4628-8021-e92b11abf2f1)
 
 ## Ruby version
 
